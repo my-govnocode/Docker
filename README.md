@@ -72,3 +72,9 @@ cd /var/www/имя_проета
 ```
 php artisan migrate:fresh --seed
 ```
+
+
+Если у вас MacOs
+```
+export DOCKER_BUILDKIT=0
+```
